@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: 엘비스의 기술블로그
 subtitle: ''
-description: ''
+description: Eclipse developer
 keywords:
-author: John Doe
-language: en
+author: 엘비스
+language: ko
 timezone: ''
 
 # URL
